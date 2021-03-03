@@ -24,8 +24,8 @@ I'm Yang Yi, a people's programmer struggling to climb the ladder from Beijing C
 
 ![](https://github-readme-stats.vercel.app/api?username=yangyiRunning&count_private=true&&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyiRunning&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangyiRunning&theme=vue)](https://github.com/yangyiRunning)
 
 |||
 |  ----  | ----  |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangyiRunning&repo=Exploring_Flutter_in_action&theme=vue&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangyiRunning&repo=DataStructureAlgorithmsJava&theme=vue&show_owner=false)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangyiRunning&repo=Exploring_Flutter_in_action&theme=vue&show_owner=false)](https://github.com/yangyiRunning/Exploring_Flutter_in_action)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangyiRunning&repo=DataStructureAlgorithmsJava&theme=vue&show_owner=false)](https://github.com/yangyiRunning/DataStructureAlgorithmsJava) |
