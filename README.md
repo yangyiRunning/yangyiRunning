@@ -2,7 +2,7 @@
 
 I'm Yang Yi, a people's programmer struggling to climb the ladder from Beijing China.🤓🤦‍♂️
 
-- 🏙 I’m currently working at **RongCloud**.
+- 🏙 I’m currently working at **Alipay**.
 - 🎓 My skill tree includes : 
   ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)
   ![Android](https://img.shields.io/badge/-Android-blue?style=flat&logo=android)
